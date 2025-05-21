@@ -2,11 +2,13 @@
 
 ### Data Cleaning & Transformation
 
-Imported and cleaned multi-sheet Excel data using Power Query; automated column transformations using dynamic parameters and reusable functions.
+Imported and cleaned multi-sheet Excel data using Power Query.
+
+Automated column transformations using dynamic parameters and reusable functions.
 
 Handled inconsistent data types and non-date values by applying error-handling logic for scalable and future-proof automation.
 
-Used Unpivot transformation to normalize daily attendance logs for analysis-ready format.
+Used Unpivot transformation to normalize daily attendance logs for an analysis-ready format.
 
 ### ETL & Automation
 
